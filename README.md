@@ -5,11 +5,11 @@
 Professor: Pedro Hnerique Sales Girotto
 
 
-INTRODUÇÃO:
+## INTRODUÇÃO:
 
 	Um jogo de aventura é um gênero de videogame no qual o jogador assume o papel de protagonista em uma história interativa impulsionada pela exploração e/ou resolução de quebra-cabeças (Rollings & Adams 2003, p. 43). O foco do gênero na história permite que ele se baseie fortemente em outras mídias, literatura e filmes. Muitos jogos de aventura (texto e gráfico) são projetados para um único jogador, já que essa ênfase na história e no personagem dificulta o design multijogador (Hitchens 2002, p. 258). Colossal Cave Adventure é identificado ("The Colossal Cave Adventure page". rickadams.org. Retrieved 31 July 2020.) como o primeiro jogo de aventura, lançado pela primeira vez em 1976, enquanto outras séries de jogos de aventura notáveis incluem Zork, King's Quest, The Secret of Monkey Island e Myst.
 
-REGRAS:
+## REGRAS:
 
 	W: O jogador movimenta uma unidade para cima;
 	A: O jogador movimenta uma unidade para esquerda;
@@ -32,13 +32,16 @@ REGRAS:
 	Fase 2: A Fase 2 é inicializada quando o jogador termina a Fase 1;
 	Fase 3: A Fase 3 é inicializada quando o jogador termina a Fase 2;
 
-PARTICIPANTES: 
+## PARTICIPANTES: 
 
-	Elissandra Bernadett Abdon Nascimento
-	eliabdon@gmail.com
-	
-	Renan Abreu de Almeida
-	https://github.com/RenanAbreu09
+## Elissandra Bernadett Abdon Nascimento
 
-	Luiz Eduardo Neto dos Santos
-	https://github.com/LuizEdNeto05
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<eliabdon@gmail.com>)
+
+## Renan Abreu de Almeida
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RenanAbreu09])
+
+## Luiz Eduardo Neto dos Santos
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/LuizEdNeto05])
