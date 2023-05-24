@@ -37,12 +37,16 @@ Pedro Henrique Sales Girotto
 
 ## Elissandra Bernadett Abdon Nascimento
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<eliabdon@gmail.com>)
+[![Gmail](eliabdon@gmail.com)](mailto:)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 ## Renan Abreu de Almeida
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RenanAbreu09])
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenanAbreu09)[![Gmail](cari3261@gmail.com)](mailto:)
+
+
 
 ## Luiz Eduardo Neto dos Santos
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/LuizEdNeto05])
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizEdNeto05)[![Gmail](luiz23300032@aluno.cesupa.br)(mailto:)
+
+
