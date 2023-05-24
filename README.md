@@ -31,3 +31,14 @@ REGRAS:
 	Fase 1: A Fase 1 é inicializada quando o jogador seleciona a opção Jogar no Menu Principal;
 	Fase 2: A Fase 2 é inicializada quando o jogador termina a Fase 1;
 	Fase 3: A Fase 3 é inicializada quando o jogador termina a Fase 2;
+
+PARTICIPANTES: 
+
+	Elissandra Bernadett Abdon Nascimento
+	eliabdon@gmail.com
+	
+	Renan Abreu de Almeida
+	https://github.com/RenanAbreu09
+
+	Luiz Eduardo Neto dos Santos
+	https://github.com/LuizEdNeto05
